@@ -23,9 +23,9 @@ I have gained valuable experience through academic projects and internships, whi
 
 ## 📚 Education:
 
-### RAJALAKSHMI ENGINEERING COLLEGE:  Data Science Postgraduate Program (2023 - 2025)
-### S.A.ENGINEERING COLLEGE: Electronics and Communication Engineering (2019 - 2023)
-### COURSERA: Google Data Analyst Certification
+### M.Tech in Data Science (2023 - 2025)
+### B.E in Electronics and Communication Engineering (2019 - 2023)
+### COURSERA: Google Data Analyst Certificate
 ## 💬 Ask me about:
 Machine Learning | Artificial Intelligence | Deep Learning | NLP | Computer Vision | Data Analytics | SQL | Python | Spark | Tableau | PowerBi | Excel | Google Analytics.
 ## 📫 Let's Connect:
