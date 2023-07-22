@@ -6,6 +6,9 @@
 
 I am deeply interested in the world of data science and its applications. My academic background in data science has equipped me with strong analytical and problem-solving skills. I am eager to use data to uncover insights, make data-driven decisions, and contribute to impactful projects.
 
+
+
+
 ## 🔭 Current Projects:
 
 I am currently working on personal data science projects that allow me to apply my knowledge and skills to real-world scenarios. These projects span various areas, including machine learning, data visualization, and statistical analysis.
