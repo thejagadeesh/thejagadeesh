@@ -1,35 +1,60 @@
 ![Your paragraph text](https://github.com/thejagadeesh/thejagadeesh/assets/114074976/a5120e50-476d-4435-a06b-5047ed5a8f0f)
+<h4 align="center">Hi there!👋 I'm Jagadeesh</h4>
 
-## Hi there👋 I'm Jagadeesh, a passionate and driven data science postgraduate student with a Google Data Analyst certificate. Welcome to my GitHub profile!
 ## 👨‍💻 About Me:
-I am deeply interested in the world of data science and its applications. My academic background in data science has equipped me with strong analytical and problem-solving skills. I am eager to use data to uncover insights, make data-driven decisions, and contribute to impactful projects.
+Welcome to my GitHub profile! I'm a passionate and driven data science postgraduate student with a Google Data Analyst certificate. I'm deeply interested in the world of data science and its applications. My academic background in data science has equipped me with strong analytical and problem-solving skills. I'm eager to use data to uncover insights, make data-driven decisions, and contribute to impactful projects.
 
 ## 🔭 Current Projects:
 
-I am currently working on personal data science projects that allow me to apply my knowledge and skills to real-world scenarios. These projects span various areas, including machine learning, data visualization, and statistical analysis.
+I am currently working on data science projects that allow me to apply my knowledge and skills to real-world scenarios. These projects span various areas, including machine learning, data visualization, and statistical analysis.
 
 ## 🌱 Always Learning:
 
 In this ever-evolving field, I believe in continuous learning. I am dedicated to expanding my knowledge and staying updated with the latest trends and technologies in data science. Currently, I am delving into topics like deep learning, natural language processing (NLP), and big data technologies.
 
-## 📚 Education:
+## 🚀 Technical Skills:  
+💾 SQL, 📊 Power Bi, Tableau, Cognos Analytics, Google Analytics, 🐍 Python, ⚙️Machine Learning,⚡ Apache Spark, 📊 Data Analysis, 🔍 Exploratory Data Analysis.
 
-### M.Tech in Data Science (2023 - 2025)🎓
-### B.E in Electronics and Communication Engineering (2019 - 2023)🎓
-### COURSERA: Google Data Analyst Certificate📜
-## 💬 Ask me about:
-Machine Learning | Artificial Intelligence | Deep Learning | NLP | Computer Vision | Data Analytics | SQL | Python | Spark | Tableau | PowerBi | Excel | Google Analytics.
-<h3 align="left">📫 Let's Connect:</h3>
-<hr>
+<h3 align="left"> 🔧 Languages and Tools:</h3>
 <p align="left">
-I'm Excited to connect with data enthusiasts and professionals!
-  
-<a href="https://www.linkedin.com/in/jagadeesh-r-94726622b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jagadeesh-r-94726622b/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/dinocojagadeeshr/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dinocojagadeeshr/code" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dinocothedataan1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Jagadeesh R" height="50" width="40" /></a>
-<img align="center" src="https://github.com/thejagadeesh/thejagadeesh/assets/114074976/0b668748-ec3f-40b3-91c4-af444667e934" alt="Email" height="25" width="25" /></a>mail: thejagadeeshr@gmail.com
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
-⚡Let's explore the world of data together and create meaningful 🪄insights! Thank you for visiting my profile, and don't forget to check out my Portfolio: https://sites.google.com/view/jagadeeshr 🚀✨
+
+## 🎓 Education
+- M.Tech in Data Science (2023 - 2025) 🎓
+- B.E in Electronics and Communication Engineering (2019 - 2023) 🎓
+
+## Connect with me 🤝
+I'm excited to connect with data enthusiasts and professionals! ⚡Let's explore the world of data together and create meaningful 🪄insights! 
+
+- 📬 **Email:** [thejagadeeshr@gmail.com](mailto:thejagadeeshr@gmail.com)
+- 🔗 **LinkedIn:** [jagadeeshr](https://www.linkedin.com/in/jagadeesh-r-94726622b/)
+- 🌐 **Portfolio:** [jagadeeshr](https://sites.google.com/view/jagadeeshr)
+
+<p align="left">
+  <a href="https://kaggle.com/dinocojagadeeshr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dinocojagadeeshr" height="30" width="40" /></a>
+  <a href="https://instagram.com/dinoco.46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinoco.46" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/jagadeesh_r @dinocothedataan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jagadeesh r @dinocothedataan1" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/jagadeesh r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jagadeesh r" height="30" width="40" /></a>
+</p>
+
+Thank you for visiting my profile, and don't forget to check out my 🌐 **Portfolio:** [jagadeeshr](https://sites.google.com/view/jagadeeshr) 🚀✨
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/194bc176c0b3f2ef01a883ff206499b86c5ce72f/assets/Bottom_down.svg" width="4000" height="250" />
 <h4 align="center">
 <h4 align="center">
