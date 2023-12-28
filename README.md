@@ -1,5 +1,7 @@
 ![Your paragraph text](https://github.com/thejagadeesh/thejagadeesh/assets/114074976/a5120e50-476d-4435-a06b-5047ed5a8f0f)
-<h4 align="center">Hi there!👋 I'm Jagadeesh</h4>
+
+<h2 align="center"><b>Hi there! 👋 I'm Jagadeesh</b></h2>
+
 
 ## 👨‍💻 About Me:
 Welcome to my GitHub profile! I'm a passionate and driven data science postgraduate student with a Google Data Analyst certificate. I'm deeply interested in the world of data science and its applications. My academic background in data science has equipped me with strong analytical and problem-solving skills. I'm eager to use data to uncover insights, make data-driven decisions, and contribute to impactful projects.
@@ -15,7 +17,7 @@ In this ever-evolving field, I believe in continuous learning. I am dedicated to
 ## 🚀 Technical Skills:  
 💾 SQL, 📊 Power Bi, Tableau, Cognos Analytics, Google Analytics, 🐍 Python, ⚙️Machine Learning,⚡ Apache Spark, 📊 Data Analysis, 🔍 Exploratory Data Analysis.
 
-<h3 align="left"> 🔧 Languages and Tools:</h3>
+## 🔧 Languages and Tools:
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -44,16 +46,11 @@ In this ever-evolving field, I believe in continuous learning. I am dedicated to
 I'm excited to connect with data enthusiasts and professionals! ⚡Let's explore the world of data together and create meaningful 🪄insights! 
 
 - 📬 **Email:** [thejagadeeshr@gmail.com](mailto:thejagadeeshr@gmail.com)
-- 🔗 **LinkedIn:** [jagadeeshr](https://www.linkedin.com/in/jagadeesh-r-94726622b/)
-- 🌐 **Portfolio:** [jagadeeshr](https://sites.google.com/view/jagadeeshr)
-
-<p align="left">
-  <a href="https://kaggle.com/dinocojagadeeshr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dinocojagadeeshr" height="30" width="40" /></a>
-  <a href="https://instagram.com/dinoco.46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinoco.46" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/jagadeesh_r @dinocothedataan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jagadeesh r @dinocothedataan1" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/jagadeesh r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jagadeesh r" height="30" width="40" /></a>
-</p>
-
+- 🔗 **LinkedIn:** [jagadeesh](https://www.linkedin.com/in/jagadeesh-r-94726622b/)
+- 🌐 **Portfolio:** [jagadeesh](https://sites.google.com/view/jagadeeshr)
+- ![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg) **Kaggle:** [jagadeeshr](https://kaggle.com/dinocojagadeeshr)
+- 📊 **Tableau:** [jagadeesh](https://public.tableau.com/app/profile/dinoco/vizzes)
+  
 Thank you for visiting my profile, and don't forget to check out my 🌐 **Portfolio:** [jagadeeshr](https://sites.google.com/view/jagadeeshr) 🚀✨
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/194bc176c0b3f2ef01a883ff206499b86c5ce72f/assets/Bottom_down.svg" width="4000" height="250" />
 <h4 align="center">
