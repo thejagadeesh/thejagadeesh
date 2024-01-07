@@ -46,15 +46,13 @@ In this ever-evolving field, I believe in continuous learning. I am dedicated to
 ## Connect with me 🤝
 I'm excited to connect with data enthusiasts and professionals! ⚡Let's explore the world of data together and create meaningful 🪄insights! 
 
-- 📬 **Email:** [thejagadeeshr@gmail.com](mailto:thejagadeeshr@gmail.com)
-- ![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg) **Kaggle:** [jagadeeshr](https://kaggle.com/dinocojagadeeshr)
-- 📊 **Tableau:** [jagadeesh](https://public.tableau.com/app/profile/dinoco/vizzes)
-  
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/jagadeeshr)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeesh-r-94726622b/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-Thank you for visiting my profile, and don't forget to check out my 🌐 **Portfolio:** [jagadeeshr](https://sites.google.com/view/jagadeeshr) 🚀✨
+[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thejagadeeshr@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/dinocojagadeeshr)
+[![Tableau](https://img.shields.io/badge/Tableau-032d60?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/dinoco/vizzes)
+Thank you for visiting my profile, and don't forget to check out 🚀[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/jagadeeshr)✨
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/194bc176c0b3f2ef01a883ff206499b86c5ce72f/assets/Bottom_down.svg" width="4000" height="250" />
 <h4 align="center">
 <h4 align="center">
