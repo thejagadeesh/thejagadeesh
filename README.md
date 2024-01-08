@@ -15,7 +15,7 @@ I am currently working on data science projects that allow me to apply my knowle
 In this ever-evolving field, I believe in continuous learning. I am dedicated to expanding my knowledge and staying updated with the latest trends and technologies in data science. Currently, I am delving into topics like deep learning, natural language processing (NLP), and big data technologies.
 
 ## 🚀 Skills:  
-📊 Data Analysis, 📈 Data Science, 💾 SQL, 📊Excel, 📊Data Visualization Tools: Power Bi, Tableau, Cognos Analytics, Google Analytics, 🐍 Python, ⚙️Machine Learning,⚡ Apache Spark, 🔍 Exploratory Data Analysis, 🔄 ETL (Extract, Transform, Load).
+📊 Data Analytics, 📈 Data Science, 💾 SQL, 📊Excel, 📊Data Visualization Tools: Power Bi, Tableau, Cognos Analytics, Google Analytics, 🐍 Python, ⚙️Machine Learning,⚡ Apache Spark, 🔍 Exploratory Data Analysis, 🔄 ETL (Extract, Transform, Load).
 
 
 ## 🔧 Languages and Tools:
