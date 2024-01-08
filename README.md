@@ -71,6 +71,7 @@ In this ever-evolving field, I believe in continuous learning. I am dedicated to
 
 ## Connect with me 🤝
 I'm excited to connect with data enthusiasts and professionals! ⚡Let's explore the world of data together and create meaningful 🪄insights! 
+
 📬Email: thejagadeeshr@gmail.com
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/jagadeeshr)
