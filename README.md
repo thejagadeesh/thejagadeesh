@@ -1,4 +1,5 @@
-![Your paragraph text](https://github.com/thejagadeesh/thejagadeesh/assets/114074976/a5120e50-476d-4435-a06b-5047ed5a8f0f)
+![GIT HUB BANNER](https://github.com/thejagadeesh/thejagadeesh/assets/114074976/eca5972e-4f18-471a-bb25-ba26c63d7ce9)
+
 
 <h2 align="center"><b>Hi there! 👋 I'm Jagadeesh</b></h2>
 
