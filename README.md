@@ -76,8 +76,7 @@ I'm excited to connect with data enthusiasts and professionals! ⚡Let's explore
 📬Email: thejagadeeshr@gmail.com
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/jagadeeshr)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeesh-r-94726622b/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejagadeeshr/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/dinocojagadeeshr)
 [![Tableau](https://img.shields.io/badge/Tableau-032d60?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/dinoco/vizzes)
 [![credly](https://img.shields.io/badge/credly-ff6a00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/jagadeeshr/badges)
