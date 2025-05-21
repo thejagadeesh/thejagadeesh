@@ -5,11 +5,11 @@
 
 
 ## 👨‍💻 About Me:
-Welcome to my GitHub profile! I'm a passionate and driven Data Science postgraduate with a Google Data Analytics Professional Certificate. I have a deep interest in exploring the power of data to solve real-world problems and create meaningful impact. My academic background and hands-on project experience have equipped me with strong analytical, problem-solving, and technical skills. I'm committed to using data to uncover insights, make data-driven decisions, and contribute to innovative and impactful projects.
+Welcome to my GitHub profile! I'm a passionate and driven **Data Science postgraduate** with a **Google Data Analytics Professional Certificate**. I have a deep interest in exploring the power of data to solve real-world problems and create meaningful impact. My academic background and hands-on project experience have equipped me with strong analytical, problem-solving, and technical skills. I'm committed to using data to uncover insights, **make data-driven decisions**, and contribute to innovative and impactful projects.
 
 ## 🔭 Current Projects:
 
-I am currently working on data science projects that allow me to apply my knowledge and skills to real-world scenarios. These projects span various areas, including machine learning, data visualization, and statistical analysis.
+I am currently working on data science projects where I can leverage my knowledge and skills to real-world scenarios. These projects span various areas, including Machine Learning, Deep Learning, Data Visualization, and Statistical Analysis.
 
 ## 🌱 Always Learning:
 
