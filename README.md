@@ -86,6 +86,11 @@ I'm excited to connect with data enthusiasts and professionals! ⚡Let's explore
 [![credly](https://img.shields.io/badge/credly-ff6a00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/jagadeeshr/badges)
 
 Thank you for visiting my profile, and don't forget to check out 🚀[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/jagadeeshr)✨
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thejagadeesh/thejagadeesh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thejagadeesh/thejagadeesh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thejagadeesh/thejagadeesh/output/pacman-contribution-graph.svg">
+</picture>
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/194bc176c0b3f2ef01a883ff206499b86c5ce72f/assets/Bottom_down.svg" width="4000" height="250" />
 <h4 align="center">
 <h4 align="center">
